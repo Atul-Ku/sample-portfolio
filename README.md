@@ -71,4 +71,4 @@ Since this portfolio is built with static files, running it locally is incredibl
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Atul-Ku/your-repo-name.git](https://github.com/Atul-Ku/your-repo-name.git)
+   git clone (https://github.com/Atul-Ku/sample-portfolio.git)
